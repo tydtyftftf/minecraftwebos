@@ -1,0 +1,10 @@
+{
+  "id": "com.yourname.minecraft",
+  "version": "1.0.0",
+  "vendor": "Your Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "Minecraft WebOS",
+  "icon": "icon.png",
+  "disableBackHistoryAPI": true
+}
