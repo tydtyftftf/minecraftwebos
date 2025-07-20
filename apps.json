@@ -1,0 +1,35 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.yourname.minecraft_1.0.0_all",
+      "title": "Minecraft Alpha 1.2.6",
+      "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
+      "manifestUrl": "com.skibidi.minecraft_1.0.0_all.ipk",
+      "manifest": {
+        "id": "",
+        "version": "1.2.6",
+        "type": "web",
+        "title": "Minecraft Alpha",
+        "appDescription": "Minecraft",
+        "iconUri": "https://github.com/tydtyftftf/minecraftwebos/blob/main/largeIcon.png?raw=true",
+        "sourceUrl": "https://github.com/tydtyftftf/minecraftwebos/",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/tydtyftftf/minecraftwebos/releases/download/test/com.skibidi.minecraft_1.0.0_all.ipk",
+        "ipkHash": {
+          "sha256": "15442a5da119166dc5460f990b7cf6588dbc4ac49352e5d72d544fd9dfa4b78b"
+        },
+        "ipkSize": 5505024
+      },
+      "pool": "main",
+      "shortDescription": "Minecraft",
+      "fullDescriptionUrl": "description.html"
+    }
+       
+  ]
+}
